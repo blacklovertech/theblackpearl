@@ -1,8 +1,5 @@
 # theblackpearl
-<hr>
-
 * * * * *
-
 ### 📌 **Software Requirements Specification (SRS) - Laravel Movie Download Website**
 
 📖 1. Overview
